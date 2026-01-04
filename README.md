@@ -31,9 +31,9 @@ End‑to‑end computer vision system for industrial safety monitoring, includin
     <th>Databases & Data</th>
     <th>Tools & Platforms</th>
   </tr>
-
   <tr>
     <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" width="40"/><br/>
       n8n
     </td>
     <td align="center">
@@ -52,9 +52,11 @@ End‑to‑end computer vision system for industrial safety monitoring, includin
 
   <tr>
     <td align="center">
+      🤖<br/>
       AI Agents
     </td>
     <td align="center">
+      🧠<br/>
       LangChain
     </td>
     <td align="center">
@@ -69,51 +71,49 @@ End‑to‑end computer vision system for industrial safety monitoring, includin
 
   <tr>
     <td align="center">
+      ⚙️<br/>
       Automation
     </td>
     <td align="center">
+      👁️<br/>
       YOLOv5
     </td>
     <td align="center">
+      📊<br/>
       ERP Data
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br/>
-      AWS
+      ☁️<br/>
+      AWS / Alibaba Cloud
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      Workflow Orchestration
+      🔄<br/>
+      Workflows
     </td>
     <td align="center">
+      🏷️<br/>
       Roboflow
     </td>
     <td align="center">
+      🕒<br/>
       Time‑Series Data
     </td>
     <td align="center">
-      Alibaba Cloud
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      —
-    </td>
-    <td align="center">
-      —
-    </td>
-    <td align="center">
-      —
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br/>
+      🐧<br/>
       Linux
     </td>
   </tr>
 </table>
-### 📫 Contact
-- 📧 Email:sayedsofy181232@gmail.com
-- 💼 LinkedIn:https://www.linkedin.com/in/sayed-sofy-5b1031268
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sayed-sofy-5b1031268/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sayedsofy181232@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="30"/>
+  </a>
+</p>
